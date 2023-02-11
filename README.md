@@ -36,7 +36,7 @@ Since we are going to use python, the next step is to identify the library that 
 To develop the transformations and answer business questions, we use 'class' and 'pandassql'.
 
 ###### Load/DWH:
-To load the data to the data warehouse we use the sqlalchemy library which allows us to connect to the PostgreSql database and store the gold data.
+To load the data to the data warehouse we use the SQLAlchemy library which allows us to connect to the PostgreSql database and store the gold data.
 
 ###### Note:
 Since it is a simple data pipeline, other features such as data orchestration and data governance are not being considered.
