@@ -24,7 +24,7 @@ The Retail.SA company wishes to build a data repository that allows it to learn 
 
 ### Solution
 
-##### 1. Data Architecture Retail
+#### 1. DATA ARCHITECTURE - RETAIL
 
 ###### Source:
 The first step that we must take into account when designing our data pipeline is to identify the place where it is located, be it a database, flat file, web, among others. For this case, it is identified that the sources are files with different formats such as csv, tsv, json, and xml.
@@ -47,6 +47,33 @@ Finally, the data architecture would be the following:
 
 #### 2. ETL
 To see the solution of the following points, check the folder "ProyectoETL"
+
+#### 3. ANSWER
+
+##### STATEMENT 1
+
+Show a Top 20 customers who bought more products with their respective amounts.
+
+![image](https://user-images.githubusercontent.com/96121226/218283261-248660a5-8882-45d8-9075-904daf9a0bae.png)
+
+##### STATEMENT 2
+
+Show the categories with the total number of products sold and the total amounts per category.
+
+![image](https://user-images.githubusercontent.com/96121226/218283384-1b6c030e-e6c8-4334-ba8e-9e49887aab31.png)
+
+##### STATEMENT 3
+
+Show the best-selling category by city
+
+![image](https://user-images.githubusercontent.com/96121226/218283410-7df11030-6a6c-419f-b2dc-6f5ac05df56b.png)
+
+##### STATEMENT 4
+
+Show the 5 best-selling products for each city and the amount collected
+
+![image](https://user-images.githubusercontent.com/96121226/218283423-aeeb706f-387e-4de9-a261-84e4a39220f2.png)
+
 
 
 
